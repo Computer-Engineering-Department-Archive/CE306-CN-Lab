@@ -1,0 +1,10 @@
+username: MyName
+password: mypassword
+
+privileged EXEC password: CISCO
+privileged EXEC secret: CISCO
+
+Virtual Terminals password: BOSON
+
+# history size = 100
+# clock != time of making the configs
